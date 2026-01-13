@@ -1,0 +1,102 @@
+* {
+  font-family: system-ui;
+}
+
+@media only screen and (max-width: 1024px) {
+  header {
+  width: 100%;
+  height: 100px;
+  background-color: #642583;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  }
+  
+}
+
+html {
+  scroll-padding-top: 125px;
+}
+header {
+  width: 100%;
+  height: 100px;
+  background-color: #642583;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+
+}
+#header img {
+  width: 25%;
+  height: auto;
+  
+}
+#nav-bar > ul {
+  display: flex;
+  justify-content: right;  
+  flex-wrap: wrap; 
+  align-items: center;
+  padding: 1em 4em;
+}
+
+nav > ul > li {  
+  color: #dfdfe2;  
+  margin: 0 0.2rem;  
+  padding: 0 2rem;  
+  display: block;
+
+}
+.nav-link {
+  color: white;
+  text-decoration: none;
+}
+.nav-link:hover {
+  color: yellow;
+}
+main {
+  padding: 125px 10%;
+}
+.description-header {
+  margin: 1em auto;
+  display: flex;
+  justify-content: center;
+}
+.description-features-list {
+  list-style: none;
+}
+.feature-headers {
+  display: flex;
+  
+}
+
+
+.video-container {
+  position: relative;
+  width: 60%;
+  padding-bottom: 33.75%;
+  overflow: hidden;
+  height: 0;
+  z-index: 1;
+  margin: 20px auto;
+}
+.video-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+}
+
+#form, legend {
+  display: flex;
+  justify-content: center;
+  padding-top: 2em;
+}
