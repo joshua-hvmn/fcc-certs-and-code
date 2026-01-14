@@ -1,10 +1,15 @@
 # Learning / Side Projects
 This repository contains my freeCodeCamp certification(s), all project code, and any small personal projects that don't deserve their own repos.
 
+##### Sections
+[1. Certifications](#certifications) \
+[2. Why fCC and about me](#why-freecodecamp-why-stop) \
+[3. Demos and Source Code](#fcc-projects)
+
 ------
 ### Certifications
 I have currently completed the following:
-1. Legacy Responsive Web Design V8
+1. [Legacy Responsive Web Design V8](https://www.freecodecamp.org/certification/joshuahaveman/responsive-web-design)
     - Completed in 18 days and finished Dec. 20, 2024.
     - First serious adult attempt at learning CS.
 
@@ -17,11 +22,13 @@ I have partially completed the following:
 3. Full Stack curriculum
     - I am considering doing the whole curriculum, which requires 6 of their other certs.
 
-The two reasons I have done freeCodeCamp: one, convenience and accessibility, and two, a desire to *prove them right*. I support their mission, and hope to contribute to it someday.
+##### Why freeCodeCamp? Why stop?
 
-The reason I stopped in early 2025 was because I shifted focus on formal CS education. I am very scientifically minded and I am obsessed with the scientific process. I created a plan to do 20 courses on study.com and sophia.org, and then transfer the credits to to WGU, and finish their self-paced B.S. in CS in under 2 terms.
+There are two main reasons I've done freeCodeCamp: one, convenience and accessibility, and two, a desire to *prove them right*. I support their mission, and hope to contribute to it someday.
 
-After finishing 6 courses in 10 weeks while working full time (or overtime), I realized I could not sustain that pace. I was trading overtime that I (and they) relied on for my own growth. I quickly learned that rising at 4AM to do ten hours of physical labor every day was seriously inhibiting my growth. I needed to pour dozens of hours into myself, without interruption. But they had me standing in one place flipping three switches, something they will automate away. I was wasting something I've so graciously been gifted, a gift I've rejected long enough.
+The reason I stopped in early 2025 was because I shifted to focus on formal CS education. I am very scientifically minded and I am obsessed with the scientific process. I created a plan to do 20 courses on study.com and sophia.org, and then transfer the credits to to WGU, and finish their self-paced B.S. in CS in under 2 terms.
+
+After finishing 6 courses in 10 weeks while working full time (and overtime), I realized I could not sustain that pace. I was trading overtime that I (and they) relied on for my own growth. I quickly learned that rising at 4AM to do ten hours of physical labor every day was seriously inhibiting my growth. I needed to pour dozens of hours into myself, without interruption. But they had me standing in one place flipping three switches, something to automate. I was wasting something I've so graciously been gifted, a gift I've rejected long enough.
 
 So, I left them when they forced me to work overtime to make up a federal holiday ***with one day's notice***. I've recovered, and have since developed my more significant repos pinned to my profile: [SIA](https://github.com/joshua-hvmn/SIA), and [git-workflow](https://github.com/joshua-hvmn/git-workflow). My growth continues.
 
@@ -33,28 +40,28 @@ These all fall short of my own standards, I was purposely doing the minimum requ
 
 #### Legacy Responsive Web Design V8:
 ##### Personal Portfolio project
-- [Demo]
+- [Demo](https://joshua-hvmn.github.io/fcc-certs-and-code/freeCodeCamp/legacy-responsive-web-design-v8/05-portfolio-page/)
 - [Source Code](https://github.com/joshua-hvmn/fcc-certs-and-code/tree/main/freeCodeCamp/legacy-responsive-web-design-v8/05-portfolio-page)
 ##### Product Landing Page project
-- [Demo]
+- [Demo](https://joshua-hvmn.github.io/fcc-certs-and-code/freeCodeCamp/legacy-responsive-web-design-v8/04-product-landing-page/)
 - [Source Code](https://github.com/joshua-hvmn/fcc-certs-and-code/tree/main/freeCodeCamp/legacy-responsive-web-design-v8/04-product-landing-page)
 ##### Technical Documentation Page project
-- [Demo]
+- [Demo](https://joshua-hvmn.github.io/fcc-certs-and-code/freeCodeCamp/legacy-responsive-web-design-v8/03-tech-doc-page/)
 - [Source Code](https://github.com/joshua-hvmn/fcc-certs-and-code/tree/main/freeCodeCamp/legacy-responsive-web-design-v8/03-tech-doc-page)
 ##### Tribute Page project
-- [Demo]
+- [Demo](https://joshua-hvmn.github.io/fcc-certs-and-code/freeCodeCamp/legacy-responsive-web-design-v8/02-tribute-page/)
 - [Source Code](https://github.com/joshua-hvmn/fcc-certs-and-code/tree/main/freeCodeCamp/legacy-responsive-web-design-v8/02-tribute-page)
 ##### Survey Form project
-- [Demo]
+- [Demo](https://joshua-hvmn.github.io/fcc-certs-and-code/freeCodeCamp/legacy-responsive-web-design-v8/01-survey-form/)
 - [Source Code](https://github.com/joshua-hvmn/fcc-certs-and-code/tree/main/freeCodeCamp/legacy-responsive-web-design-v8/01-survey-form)
 
 ------
 #### Legacy JS Algos & DS:
 ##### Palindrome Checker
-- [Demo]
+- [Demo](https://joshua-hvmn.github.io/fcc-certs-and-code/freeCodeCamp/legacy-js-algos-data-structures/01-palindrome-checker/)
 - [Source Code](https://github.com/joshua-hvmn/fcc-certs-and-code/tree/main/freeCodeCamp/legacy-js-algos-data-structures/01-palindrome-checker/)
 ##### Roman-Arabic Numeral Converter
-- [Demo]
+- [Demo](https://joshua-hvmn.github.io/fcc-certs-and-code/freeCodeCamp/legacy-js-algos-data-structures/02-roman-numeral-converter/)
 - [Source Code](https://github.com/joshua-hvmn/fcc-certs-and-code/tree/main/freeCodeCamp/legacy-js-algos-data-structures/02-roman-numeral-converter/)
 
 ------
