@@ -1,0 +1,143 @@
+* {
+  font-family: system-ui;
+  scroll-behavior: smooth;
+}
+html {
+  scroll-padding-top: 15vh;
+  font-size: 14px;
+  
+}
+
+@media only screen and (max-width: 960px) {
+  html {
+    font-size: 12px;
+  }
+}
+header {
+  width: 100vw;
+  height: 15vh;
+  background-color: #2a6c91;
+  position: fixed;
+  top: 0;
+  left:0;
+  z-index: 1;
+  
+}
+nav {
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+nav > ul {
+  display: flex;
+  justify-content: right;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-right: 2rem;
+  padding-top: auto;
+  padding-bottom: auto;
+  
+}
+nav > ul > li {
+  margin: auto 1rem;
+  list-style: none;
+}
+.nav-link {
+  color: white;
+  text-decoration: none;
+  padding: 5vh 1em;
+}
+.nav-link:hover {
+  color: #7b4848;
+  background: linear-gradient(45deg, #097896, #57dafd);
+  height: 100%;
+  border-radius: 5%;
+}
+
+main {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+
+
+}
+.welcome-section {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(#11191d, #23333b);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.welcome-header {
+  font-size: 3rem;
+}
+.welcome-subheader {
+  color: #34b8fb;
+  font-size: 1.2rem;
+}
+
+.projects {
+  width: 100%;
+  height: 85vh;
+  background-color: #d3c3b8;
+  
+}
+.projects-header {
+  padding-top: 2.5rem;
+  text-align: center;
+  
+}
+.project-area {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 20px 10px;
+  
+}
+.project-tile {
+  width: 25%;
+  max-width: 350px;
+  max-height: 90%;
+  object-fit: cover;
+  border-radius: 10px;
+  background-color: grey;
+}
+.project-tile img {
+  width: 100%;
+  max-width: 350px;
+  max-height: 350px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.project-tile p, a {
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+.contact {
+  width: 100%;
+  height: 85vh;
+  background-color: #717171;
+}
+.contact-header {
+  padding-top: 2.5rem;
+  text-align: center;
+}
+.contact-links {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 2em;
+}
+.contact-links:hover {
+  color: #d3c3b8;
+}
