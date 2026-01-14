@@ -1,0 +1,48 @@
+@media (prefers-reduced-motion: no-preference){
+  * {
+    scroll-behavior: smooth;
+  }
+}
+
+header {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.nav-div {
+ width: 20%;
+ min-width: 250px;
+ height: 100%;
+ background-color: #1b124f;
+ color: #ffffff;
+ position: fixed;
+ z-index: 1;
+ top: 0;
+ left:0;
+ padding: 1em 2px;
+}
+.nav-div a {
+  color: #fff;
+  display: block;
+  text-decoration: none;
+  padding: 1em;
+}
+.nav-div a:hover {
+  color: grey;
+}
+.nav-div header {
+  padding-bottom: .5em
+}
+
+main {
+  margin-left:250px;
+  padding: 0 10px;
+ 
+}
+code {
+  padding: 2em 1em;
+}
+
+legend {
+  padding-top: 1.25em
+}

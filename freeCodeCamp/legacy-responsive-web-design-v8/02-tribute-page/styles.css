@@ -1,0 +1,41 @@
+body{
+  
+}
+.title-card {
+  display: block;
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  max-height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+figcaption {
+  text-align: center;
+  padding: 0.35em;
+}
+.img-div {
+  padding: 2em;
+}
+.tribute-info {
+  border: 1px solid grey;
+  background-color: #E5E5E5;
+  max-width: 60%;
+  margin: 0 auto;
+  
+}
+.title2 {
+  display: block;
+  text-align: center;
+  padding-bottom: 2em;
+}
+.more-info {
+  display: block;
+  text-align: center;
+  padding: 2em;
+}
+#tribute-link {
+  color: #000000;
+}

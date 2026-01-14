@@ -1,0 +1,33 @@
+* {
+
+}
+html {
+  background: grey;
+}
+.main-background, form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 150px;
+  max-width: 800px;
+  background: #ffd1e6;
+  padding: 10px auto;
+  margin: 1px auto;
+  border-radius: 50px;
+
+}
+.hide {
+  display: none;
+}
+button {
+  border-radius: 5px;
+  border: none;
+  margin: 0.5em;
+}
+button:hover {
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+}
